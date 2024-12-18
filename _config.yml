@@ -1,5 +1,14 @@
+# _config.yml
 title: Ahmed Ayman
-# logo: /assets/img/headshot_circle.png
-#description: text below image
+logo: /assets/img/headshot_circle.png
+#description: text below image 
 show_downloads: true
 theme: jekyll-theme-minimal
+
+# Add this section for GitHub Pages deployment
+# If this is your personal site, fill in your username
+# If this is a project site, fill in your repo name
+baseurl: "/ahmed-ayman-portfolio" # Replace with your username or repo name
+
+# Set the correct URL for your site
+url: "https://ahmed-ayman.github.io" # Replace with your GitHub Pages URL
