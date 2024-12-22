@@ -18,9 +18,26 @@ I leverage advanced Python and machine learning techniques to extract actionable
 
 ## 🔧 Skills
 
-**Programming & Tools:** Python | SQL | MySQL | Excel | Tableau | Power BI  
-**Data Science Libraries:** NumPy | Pandas | Matplotlib | Seaborn | Scikit-learn | NLTK | SpaCy  
-**Core Concepts:** Machine Learning | NLP (Natural Language Processing) | Data Analysis | Data Structures | Probability & Statistics | OOP (Object-Oriented Programming) | C++
+| **Programming & Tools**     | **Data Science Libraries** |
+|-----------------------------|----------------------------|
+| Python                      | NumPy                     |
+| SQL                         | Pandas                    |
+| MySQL                       | Matplotlib                |
+| Excel                       | Seaborn                   |
+| Tableau                     | Scikit-learn              |
+| Power BI                    | NLTK                      |
+|                             | SpaCy                     |
+
+| **Core Concepts**           |                            |
+|-----------------------------|----------------------------|
+| Machine Learning            |                            |
+| NLP (Natural Language Processing) |                     |
+| Data Analysis               |                            |
+| Data Structures             |                            |
+| Probability & Statistics    |                            |
+| OOP (Object-Oriented Programming) |                     |
+| C++                         |                            |
+
 
 ---
 
