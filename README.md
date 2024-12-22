@@ -1,4 +1,4 @@
-# Ahmed Ayman - Aspiring Data Scientist
+# Ahmed Ayman - Data Scientist
 
 📍 Cairo, Egypt | 📧 [ahmedalhofy42@gmail.com](mailto:ahmedalhofy42@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-alhofy/) | [GitHub](https://github.com/AhmedAyman4)
 
