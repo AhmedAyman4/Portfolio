@@ -18,25 +18,15 @@ I leverage advanced Python and machine learning techniques to extract actionable
 
 ## 🔧 Skills
 
-| **Programming & Tools**     | **Data Science Libraries** |
-|-----------------------------|----------------------------|
-| Python                      | NumPy                     |
-| SQL                         | Pandas                    |
-| MySQL                       | Matplotlib                |
-| Excel                       | Seaborn                   |
-| Tableau                     | Scikit-learn              |
-| Power BI                    | NLTK                      |
-|                             | SpaCy                     |
-
-| **Core Concepts**           |                            |
-|-----------------------------|----------------------------|
-| Machine Learning            |                            |
-| NLP (Natural Language Processing) |                     |
-| Data Analysis               |                            |
-| Data Structures             |                            |
-| Probability & Statistics    |                            |
-| OOP (Object-Oriented Programming) |                     |
-| C++                         |                            |
+| **Programming & Tools**     | **Data Science Libraries** | **Core Concepts**           |
+|-----------------------------|----------------------------|-----------------------------|
+| Python                      | NumPy                     | Machine Learning            |
+| SQL                         | Pandas                    | NLP (Natural Language Processing) |
+| MySQL                       | Matplotlib                | Data Analysis               |
+| Excel                       | Seaborn                   | Data Structures             |
+| Tableau                     | Scikit-learn              | Probability & Statistics    |
+| Power BI                    | NLTK                      | OOP (Object-Oriented Programming) |
+|                             | SpaCy                     | C++                         |
 
 
 ---
